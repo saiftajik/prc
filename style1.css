@@ -4,13 +4,14 @@
 }
 
 #color-box{
-    background-color: rgb(212, 212, 112);
+    background-color: #FFFF00;
+    color: orange;
 }
 
 .intro-paragraph{
-    color: rgb(255, 99, 71)
+    color: #8A2BE2
 }
 
 p{
-    color: rgba(0, 128, 0, 0.3);
+    background-color: rgba(0, 128, 0, 0.3);
 }
